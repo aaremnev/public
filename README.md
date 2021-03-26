@@ -1,6 +1,6 @@
 # Relative image path example
 
-![Relative Image](images/image.png)
+![Relative Image](SpaceEdit.png)
 
 # Absolute url image example
 
