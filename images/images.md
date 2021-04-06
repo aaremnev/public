@@ -1,1 +1,1 @@
-./../images/nested/../nested/image.png
+![Relative nested image](./../images/nested/../nested/image.png)
