@@ -6,6 +6,10 @@
 
 [Relative Link](ЧИТАЙ.md)
 
-# Absolute url image example
+# Absolute raw url image example
 
-![Absolute Image](https://picsum.photos/id/237/400/200)
+![Absolute Image](https://github.com/aaremnev/public/raw/main/SpaceEdit.gif)
+
+# Absolute external url image example
+
+![Absolute External Image](https://picsum.photos/id/237/400/200)
